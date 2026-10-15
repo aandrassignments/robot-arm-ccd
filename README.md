@@ -1,4 +1,4 @@
-# 2D Robot Arm — Inverse Kinematics (CCD)
+# 2D Robot Arm using Inverse Kinematics (CCD)
 
 A simple 2D robotic arm simulation built using Python and Raylib (pyray).
 
@@ -32,5 +32,5 @@ python main.py
 
 ## Demonstration
 
-![3 Segment Example](assets/example.gif)
-![More Segment Example](assets/example2.gif)
+![3 Segments Example](assets/example.gif)
+![Other Segments Example](assets/example2.gif)

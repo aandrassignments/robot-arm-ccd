@@ -22,7 +22,7 @@ pip install raylib
 Run the Python file:
 
 ```bash
-python main.py
+python CCD_Code.py
 ```
 
 **Controls:**
